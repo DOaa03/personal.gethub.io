@@ -48,7 +48,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(imges/doaaacopy.png) no-repeat;
+    background: url(doaaacopy.png) no-repeat;
     background-size: contain;
     background-position: center;
     background-attachment: fixed;
